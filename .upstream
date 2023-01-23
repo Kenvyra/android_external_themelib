@@ -1,0 +1,5 @@
+{
+    "name": "proton",
+    "fetch": "https://github.com/ProtonAOSP/android_external_themelib",
+    "revision": "refs/heads/sc-qpr3"
+}
